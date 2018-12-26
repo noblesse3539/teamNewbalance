@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "뉴밸런스"
+title                    : "team_newbalance"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "대전_1반_뉴밸런스입니다."
+description              : "We are team_newbalance."
 url                      : "https://noblesse3539.github.io"
 baseurl                  : "team_newbalance"
 repository               : "mmistakes/minimal-mistakes"
