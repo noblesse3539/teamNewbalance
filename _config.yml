@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "대전_1반_뉴밸런스입니다."
 url                      : "https://noblesse3539.github.io"
-baseurl                  : "/team_newbalance"
+baseurl                  : "team_newbalance"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
